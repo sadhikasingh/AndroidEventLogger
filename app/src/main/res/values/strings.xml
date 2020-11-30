@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Logger</string>
+    <string name="accessibility_service_label">Accessibility Service Label</string>
+</resources>
